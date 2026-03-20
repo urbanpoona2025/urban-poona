@@ -101,3 +101,13 @@ app.use((req, res, next) => {
     },
   );
 })();
+import path from "path";
+
+const __dirname = path.resolve();
+
+// Serve frontend
+app.use(express.static(path.join(__dirname, "../client/dist")));
+
+app.get("/*", (req, res) => {
+  res.sendFile(path.join(__dirname, "../client/dist/index.html"));
+});
