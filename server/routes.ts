@@ -1,4 +1,4 @@
-import type { Express } from "express";
+import type { Express, Request, Response } from "express";
 import type { Server } from "http";
 import { storage } from "./storage";
 import { api } from "@shared/routes";
@@ -8,7 +8,7 @@ export async function registerRoutes(
   httpServer: Server,
   app: Express
 ): Promise<Server> {
-  app.post(api.volunteers.create.path, async (req, res) => {
+  app.post(api.volunteers.create.path, async (req: Request, res: Response) => {
     try {
       const input = api.volunteers.create.input.parse(req.body);
       const volunteer = await storage.createVolunteer(input);
