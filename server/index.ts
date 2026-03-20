@@ -1,5 +1,4 @@
 import express, { type Request, Response, NextFunction } from "express";
-import path from "path";
 import { registerRoutes } from "./routes";
 import { serveStatic } from "./static";
 import { createServer } from "http";
@@ -93,12 +92,4 @@ app.use((req, res, next) => {
   const port = parseInt(process.env.PORT || "5000", 10);
  httpServer.listen(port, "0.0.0.0", () => {
   console.log(`Server running on port ${port}`);
-});
-const __dirname = path.resolve();
-
-// Serve frontend
-app.use(express.static(path.join(__dirname, "../client/dist")));
-
-app.get("/*", (req, res) => {
-  res.sendFile(path.join(__dirname, "../client/dist/index.html"));
 });
