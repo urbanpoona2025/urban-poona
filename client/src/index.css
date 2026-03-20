@@ -1,0 +1,68 @@
+@import url('https://fonts.googleapis.com/css2?family=Inter:wght@300;400;500;600&family=Poppins:wght@400;500;600;700;800&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+:root {
+  /* Typography */
+  --font-sans: 'Inter', sans-serif;
+  --font-display: 'Poppins', sans-serif;
+
+  /* Color Palette - Dark Teal & Gold */
+  --background: 180 20% 99%;
+  --foreground: 183 30% 15%;
+  
+  --card: 0 0% 100%;
+  --card-foreground: 183 30% 15%;
+  
+  --popover: 0 0% 100%;
+  --popover-foreground: 183 30% 15%;
+  
+  --primary: 183 100% 20%; /* Dark Teal */
+  --primary-foreground: 0 0% 100%;
+  
+  --secondary: 183 20% 90%;
+  --secondary-foreground: 183 100% 20%;
+  
+  --muted: 180 15% 95%;
+  --muted-foreground: 183 10% 45%;
+  
+  --accent: 43 90% 55%; /* Gold */
+  --accent-foreground: 43 90% 10%;
+  
+  --destructive: 0 84% 60%;
+  --destructive-foreground: 0 0% 100%;
+  
+  --border: 183 20% 90%;
+  --input: 183 20% 90%;
+  --ring: 43 90% 55%;
+
+  --radius: 1rem;
+}
+
+@layer base {
+  body {
+    @apply bg-background text-foreground antialiased selection:bg-accent selection:text-accent-foreground;
+    font-family: var(--font-sans);
+  }
+
+  h1, h2, h3, h4, h5, h6 {
+    font-family: var(--font-display);
+    @apply font-bold tracking-tight text-primary;
+  }
+}
+
+@layer utilities {
+  .font-display {
+    font-family: var(--font-display);
+  }
+  
+  .glass-panel {
+    @apply bg-white/80 backdrop-blur-md border border-white/20 shadow-xl;
+  }
+  
+  .text-balance {
+    text-wrap: balance;
+  }
+}

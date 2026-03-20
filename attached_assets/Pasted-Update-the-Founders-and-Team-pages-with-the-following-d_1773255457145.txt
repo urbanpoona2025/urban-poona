@@ -1,0 +1,129 @@
+Update the Founders and Team pages with the following design and content changes.
+
+DESIGN CHANGES
+1. Profile Layout
+- Display profiles one below another vertically (not in a grid).
+- Each profile should be a horizontal card layout:
+  Left side: profile image
+  Right side: name, designation, and bio.
+
+2. Image Styling
+- Make all profile images perfectly square.
+- Remove the current oval/circle style.
+- Use a square image with slightly rounded corners.
+- Image size should be consistent for all profiles.
+
+3. Card Style
+- Clean modern NGO-style card layout.
+- Soft shadow for each card.
+- Consistent spacing between cards.
+- Cards should be centered and not too wide.
+- Maintain responsiveness for mobile (image should stack above text on small screens).
+
+4. Page Structure
+
+FOUNDERS PAGE STRUCTURE
+
+Page title:
+Founders & Leadership
+
+Short intro text:
+Urban Poona Impact Club is led by a group of passionate young leaders committed to creating meaningful change in Pune through community initiatives, environmental action, and youth-driven social impact.
+
+Display the following profiles vertically in this order:
+
+1. Ishaan Jagtap
+Role: Founder
+Bio:
+I'm Ishaan Jagtap, founder of the Urban Poona Impact Club. As an artist and avid tennis player, I bring creativity, discipline, and passion to every initiative. I aim to lead impactful projects that inspire community action, foster social awareness, and drive positive change in Pune. Through this club, I'm committed to turning ideas into meaningful, grassroots-level transformation.
+
+2. Arhan Shaikh
+Role: Co-Founder & Chief Financial Officer
+Bio:
+I'm Arhan Shaikh, Co-founder and Chief Financial Officer of the Urban Poona Impact Club. I'm pursuing Commerce in 11th grade, an aspiring economist, and a passionate footballer. I'm dedicated to driving positive change by leading youth-led initiatives in education, sports, and sustainability, building a future where small actions create big impact.
+
+3. Aroush Muglikar
+Role: Co-Founder
+Bio:
+I, Aroush Muglikar, Co-founder of the Urban Poona Impact Club and a current 11th-grade science student, am committed to driving meaningful change in my community. I pledge to lead with purpose, inspire youth participation, and contribute actively to sustainable initiatives that create lasting social and environmental impact.
+
+4. Ishaan Suryawanshi
+Role: Co-Founder
+Bio:
+I'm Ishaan Suryawanshi, co-founder of the Urban Poona Impact Club. I'm in 11th grade pursuing science and an avid basketball player. I'm committed to driving positive change through impactful initiatives that empower youth and build a more conscious, compassionate community.
+
+5. Shaurya Hadgal
+Role: Co-Founder
+Bio:
+I'm Shaurya Hadgal, co-founder of the Urban Poona Impact Club. I'm in 11th grade pursuing science and an avid tennis player. I'm dedicated to creating meaningful change through youth-run initiatives that foster awareness, responsibility, and a stronger, more connected community.
+
+6. Tej Punde
+Role: President & Co-Founder
+Bio:
+I'm Tej Punde, President and Co-Founder of the Urban Poona Impact Club. I'm an athlete at heart and badminton is my passion, along with being a student at BMCC. The purpose of giving back and helping the community is what led me to join and help build this club.
+
+TEAM PAGE STRUCTURE
+
+Page title:
+Our Team
+
+Short intro text:
+The Urban Poona Impact Club is supported by a dedicated team of students and volunteers who work together to organize initiatives, manage operations, and expand the club's impact within the community.
+
+Display the following profiles vertically in this order:
+
+1. Tanmay
+Role: Vice President
+Bio:
+Hi, I am Tanmay, Vice President of the Urban Poona Impact Club. I am a passionate runner and a science student who believes in giving back to the community and contributing to meaningful social initiatives.
+
+2. Raj Batra
+Role: Treasurer
+Bio:
+I'm Raj Batra, Treasurer of the Urban Poona Impact Club and a commerce student at Symbiosis. I am dedicated to managing resources efficiently and supporting impactful initiatives while promoting teamwork and positive change in our community.
+
+3. Sayuri
+Role: HR Head
+Bio:
+My name is Sayuri and I am currently a Class 11 science student. I have a strong interest in sports, particularly basketball, and a deep passion for literature. I am committed to contributing positively to society and bringing meaningful change to the lives of others.
+
+4. Ranbir Singh
+Role: Editor
+Bio:
+I'm Ranbir Singh, a 16-year-old student balancing sports, internships, and school. I enjoy travelling and hiking along with a good strong espresso. I also do graphic design for fun and when not doing any of the above, I'm probably having a nice sleep.
+
+5. Avni
+Role: Editor
+Bio:
+Hi, I'm Avni, an editor passionate about storytelling and social impact. Through visuals and narratives, I aim to highlight important voices, inspire change, and support causes that truly matter.
+
+6. Radha Pusalkar
+Role: Project Director
+Bio:
+Hi, I’m Radha Pusalkar, a Grade 12 student and an active volunteer in the field of animal welfare. I am deeply passionate about social causes and committed to creating meaningful change. I believe even small efforts can create lasting impact and I strive to promote compassion, awareness, and positive action.
+
+7. Shanti
+Role: Head of Design
+Bio:
+Hi I am Shanti, currently a science student in grade 11. I aim to support NGOs by using design and marketing to help them reach wider audiences and communicate their missions effectively.
+
+8. Nabhya Shukla
+Role: Chief Advisor
+Bio:
+Nabhya Shukla serves as Chief Advisor for the Urban Poona Impact Club, providing guidance and strategic insight to support the club’s initiatives and long-term vision. Their mentorship helps strengthen the impact of youth-led projects within the community.
+
+9. Om Patel
+Role: Head of Logistics
+Bio:
+Om Patel is the Head of Logistics at the Urban Poona Impact Club, responsible for coordinating events, managing resources, and ensuring smooth execution of community initiatives and projects.
+
+IMAGE PLACEHOLDERS
+- Use placeholder images for now for each member.
+- I will replace them later with actual photos.
+
+RESPONSIVE DESIGN
+- Desktop: image left, text right.
+- Mobile: image on top, text below.
+- Maintain consistent spacing between all profiles.
+
+Do not change any existing colors or branding of the website.

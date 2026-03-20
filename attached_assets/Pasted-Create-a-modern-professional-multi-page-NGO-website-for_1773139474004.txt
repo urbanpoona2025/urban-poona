@@ -1,0 +1,247 @@
+Create a **modern, professional, multi-page NGO website** for an organization called **Urban Poona Impact Club**, a youth-led initiative based in Pune, India.
+
+The website should be **clean, professional, minimal, and credible**, similar to modern NGO websites. It must be **mobile responsive**, visually engaging, and easy to navigate.
+
+Design Style:
+
+* Clean NGO-style design
+* Color palette: Dark teal (primary), gold (accent), white background
+* Modern typography similar to Inter or Poppins
+* Rounded content cards with soft shadows
+* Smooth scrolling animations
+* Large hero sections
+* Professional layout suitable for an NGO
+* Mobile-friendly design
+
+The website must contain the following **5 pages**:
+
+---
+
+## 1. HOME PAGE
+
+Hero Section
+
+Title:
+Urban Poona Impact Club
+
+Subtitle:
+Empowering youth to create meaningful impact in Pune through volunteering, community initiatives, and NGO collaborations.
+
+Buttons:
+
+* Join the Movement
+* Explore Our Projects
+
+Background idea: Youth volunteers participating in community initiatives.
+
+---
+
+About Section
+
+Urban Poona Impact Club is a youth-led initiative dedicated to creating meaningful change across Pune. The organization brings together passionate young individuals who collaborate with NGOs, organize volunteering activities, and lead projects focused on environmental responsibility, animal welfare, and community development.
+
+Through impactful initiatives and partnerships, Urban Poona aims to empower youth to become responsible leaders and changemakers who actively contribute to their communities.
+
+---
+
+Impact Section (display statistics in cards)
+
+* 20+ Active Volunteers
+* 300+ Kilograms of Waste Collected
+* 1 Square Kilometre Area Cleaned
+* 20+ Teams Participated in Fundraising Event
+
+---
+
+Featured Initiative
+
+Title: Water Bowl Initiative – Summer 2026
+
+Urban Poona Impact Club is collaborating with Wakad Animal Rescue to distribute water bowls across Pune during the summer season to help birds and animals stay hydrated during extreme heat.
+
+Volunteers will paint and place bowls in public areas to ensure access to clean drinking water for animals and birds.
+
+---
+
+Call to Action
+
+Join a growing network of young changemakers in Pune working together to create real social impact.
+
+Buttons:
+
+* Become a Volunteer
+* Partner With Us
+
+---
+
+## 2. ABOUT PAGE
+
+About Urban Poona Impact Club
+
+Urban Poona Impact Club is a youth-driven initiative committed to creating real impact in society. The organization was founded to encourage youth participation in volunteering, community service, and social development activities.
+
+Urban Poona provides a platform where students and young individuals can collaborate with NGOs, organize social initiatives, and contribute to meaningful causes. By bringing together motivated volunteers, the organization aims to build a strong community of changemakers dedicated to improving society.
+
+---
+
+Mission
+
+To empower young individuals to actively participate in community service and create meaningful social impact.
+
+---
+
+Vision
+
+To build a network of youth leaders who collaborate with organizations and communities to solve social challenges and improve lives.
+
+---
+
+## 3. JOURNEY PAGE
+
+The Beginning
+
+Urban Poona Impact Club started as a youth initiative aimed at encouraging students to participate in volunteering and community service activities.
+
+The idea was to create a platform where young individuals could collaborate, support NGOs, and take leadership roles in initiatives that improve society.
+
+---
+
+Growth
+
+Through collaborations with NGOs and independent projects, the organization gradually expanded its activities and built a growing network of volunteers.
+
+Projects such as environmental clean-up drives, fundraising sports events, and educational visits to charitable organizations helped strengthen the organization’s impact.
+
+---
+
+Today
+
+Today, Urban Poona Impact Club continues to expand its reach by organizing initiatives, supporting NGOs, and empowering youth to take leadership roles in social impact projects.
+
+---
+
+## 4. PROJECTS PAGE
+
+Display projects in large cards with images and impact highlights.
+
+### Community Clean-Up Drive
+
+(Collaboration with BPT Seva)
+
+Urban Poona Impact Club organized a large-scale community clean-up initiative in collaboration with BPT Seva to promote environmental responsibility and improve local public spaces.
+
+More than 20 volunteers participated in the initiative and collectively removed over 300 kilograms of waste from public areas. The team successfully cleaned approximately one square kilometre of space, restoring cleanliness and raising awareness about responsible waste management.
+
+The initiative also helped educate nearby residents about environmental sustainability and the importance of maintaining clean public environments.
+
+Impact Highlights:
+
+* 300+ kilograms of waste collected
+* 20+ volunteers participated
+* 1 square kilometre area cleaned
+
+---
+
+### UPBFL – Urban Poona Basketball Fundraiser League
+
+Urban Poona organized the Urban Poona Basketball Fundraiser League (UPBFL), a community sports initiative designed to raise funds for GRIP Charitable Foundation.
+
+The event brought together more than 20 basketball teams and created a platform where athletes and volunteers could participate in a competitive tournament while supporting a charitable cause.
+
+The tournament demonstrated how sports can unite communities and raise awareness for social initiatives while generating financial support for charitable organizations.
+
+Impact Highlights:
+
+* 20+ teams participated
+* Successful fundraising event
+* Community engagement through sports
+
+---
+
+### Visit to RESQ Charitable Trust
+
+Urban Poona volunteers visited RESQ Charitable Trust to learn about wildlife rescue operations, animal rehabilitation, and conservation efforts.
+
+During the visit, members gained valuable insights into the challenges faced in rescuing injured animals and providing medical care for wildlife.
+
+The experience helped increase awareness about animal welfare and inspired volunteers to support wildlife rescue initiatives.
+
+---
+
+### Visit to GRIP Charitable Foundation
+
+Members of Urban Poona also visited GRIP Charitable Foundation to learn about its work in social welfare and community development.
+
+The visit helped volunteers understand how charitable organizations operate and how collaborative efforts between NGOs and volunteers can create sustainable social impact.
+
+This experience strengthened Urban Poona’s commitment to working with organizations that aim to improve communities.
+
+---
+
+## 5. JOIN & SUPPORT PAGE
+
+Volunteer Section
+
+Title: Join Urban Poona Impact Club
+
+Description:
+
+Become part of a growing network of young changemakers dedicated to creating positive impact in Pune.
+
+Volunteer Form Fields:
+
+* Full Name
+* Age
+* School / College
+* Email
+* Phone Number
+* Area in Pune
+* Areas of Interest
+
+  * Animal Welfare
+  * Environmental Work
+  * Community Service
+  * Event Management
+
+Button: Submit Application
+
+---
+
+Donation Section
+
+Title: Support Our Initiatives
+
+Urban Poona Impact Club relies on the support of individuals and organizations to conduct impactful projects.
+
+Ways to support:
+
+* Donate to initiatives
+* Sponsor community projects
+* Partner with Urban Poona
+
+Button: Support Our Work
+
+---
+
+## EXTRA FEATURES
+
+Include:
+
+* Responsive mobile design
+* Volunteer sign-up form
+* Clean navigation bar
+* Footer with Instagram link and contact email
+* Image gallery for projects
+* Smooth animations and hover effects
+
+Navigation Menu:
+
+Home
+About
+Journey
+Projects
+Join & Support
+
+---
+
+Output a **complete professional website layout** suitable for an NGO that looks modern, credible, and engaging.
