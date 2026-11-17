@@ -71,6 +71,7 @@ export default function ProjectDetail({ params }: ProjectDetailProps) {
         </motion.div>
 
         {/* View Gallery Button */}
+        {project.gallery.length > 0 && (
         <motion.div
           initial={{ opacity: 0, y: 16 }}
           animate={{ opacity: 1, y: 0 }}
@@ -88,6 +89,7 @@ export default function ProjectDetail({ params }: ProjectDetailProps) {
             View Gallery
           </Link>
         </motion.div>
+        )}
       </div>
     </div>
   );

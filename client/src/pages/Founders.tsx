@@ -33,10 +33,10 @@ const founders = [
     bio: "I'm Shaurya Hadgal, co-founder of the Urban Poona Impact Club. I'm in 11th grade pursuing science and an avid tennis player. I'm dedicated to creating meaningful change through youth-run initiatives that foster awareness, responsibility, and a stronger, more connected community.",
   },
   {
-    name: "Tej Punde",
-    role: "President & Co-Founder",
-    image: "/images/team/tej-punde.jpg",
-    bio: "I'm Tej Punde, President and Co-Founder of the Urban Poona Impact Club. I'm an athlete at heart and badminton is my passion, along with being a student at BMCC. The purpose of giving back and helping the community is what led me to join and help build this club.",
+    name: "Advait Godbole",
+    role: "Co-Founder",
+    image: "/images/team/advait-godbole.jpg",
+    bio: "Advait Godbole is the Co-Founder of Urban Poona Impact Club, driven by a passion for community development and creating meaningful change at the grassroots level. He believes that even small initiatives, when brought together through collective effort, can make a lasting difference. Through UPIC, he has helped organise sports fundraisers, mobilise volunteers and support communities facing local challenges. Beyond UPIC, Advait is interested in economics, public policy and entrepreneurship. He enjoys bringing people together around ideas and turning them into action. He hopes to continue contributing to initiatives that make Pune a better, more inclusive and sustainable city.",
   },
 ];
 

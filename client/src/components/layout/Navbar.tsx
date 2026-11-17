@@ -28,18 +28,18 @@ export function Navbar() {
   return (
     <header 
       className={`fixed top-0 left-0 right-0 z-50 transition-all duration-300 ${
-        scrolled ? "bg-white/95 backdrop-blur-md shadow-sm py-3" : "bg-transparent py-5"
+        scrolled ? "bg-white/95 backdrop-blur-md shadow-sm py-3" : "bg-primary/90 backdrop-blur-md py-5"
       }`}
     >
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center">
-          <Link href="/" className="flex items-center gap-3 group">
+            <Link href="/" className="flex items-center gap-3 group">
             <img 
               src={logoUrl} 
               alt="Urban Poona Impact Club Logo" 
-              className="h-12 w-12 rounded-full object-cover border-2 border-primary shadow-sm group-hover:scale-105 transition-transform"
+              className="h-12 w-12 rounded-full object-cover border-2 border-white/40 shadow-sm group-hover:scale-105 transition-transform"
             />
-            <span className={`font-display font-bold text-xl ${scrolled ? 'text-primary' : 'text-primary md:text-white'} transition-colors`}>
+            <span className={`font-display font-bold text-xl ${scrolled ? 'text-primary' : 'text-white'} transition-colors`}>
               UPIC
             </span>
           </Link>

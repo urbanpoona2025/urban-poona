@@ -10,6 +10,21 @@ export interface Project {
 
 export const projects: Project[] = [
   {
+    slug: "waterball-initiative",
+    title: "The Waterball Initiative",
+    category: "Animal Welfare",
+    cardImage: "https://images.unsplash.com/photo-1544568100-847a948585b9?auto=format&fit=crop&q=80",
+    bannerImage: "https://images.unsplash.com/photo-1544568100-847a948585b9?auto=format&fit=crop&q=80",
+    description: [
+      "The Waterball Initiative was one of Urban Poona Impact Club's most heartfelt and community-driven campaigns. Launched during the peak of Pune's summer season, the initiative set out to address one of the most overlooked crises facing street animals — dehydration. As temperatures soared across the city, UPIC mobilized its volunteer network to place water bowls in strategic locations across 50+ localities in Pune.",
+      "Over the course of the campaign, more than 80 volunteers participated across different neighbourhoods, covering areas from Koregaon Park to Kothrud and beyond. Each volunteer team was responsible for scouting locations, placing durable water bowls, and committing to a weekly refill schedule. The initiative also partnered with local shopkeepers and residents who agreed to refill the bowls daily, creating a sustainable network of care.",
+      "Beyond hydration, the Waterball Initiative sparked meaningful conversations about urban animal welfare and responsible community action. UPIC documented over 1,200 interactions with street animals during the campaign and received an outpouring of support from local residents and animal welfare groups. Several partner NGOs, including RESQ Charitable Trust, helped train volunteers in animal safety during the drive.",
+      "The event concluded with a community gathering where participants shared their experiences, photographs, and stories from the field. The Waterball Initiative stands as a testament to what happens when young people choose to show up — not just for people, but for every living being that calls Pune home. It was a successful, concluded initiative that UPIC is proud to have delivered from start to finish.",
+    ],
+    gallery: [],
+  },
+
+  {
     slug: "community-cleanup-drive",
     title: "Community Clean-Up Drive",
     category: "Environment",

@@ -3,6 +3,12 @@ import { Users } from "lucide-react";
 
 const teamMembers: { name: string; role: string; image: string; bio: string; imgClass?: string }[] = [
   {
+    name: "Tej Punde",
+    role: "President",
+    image: "/images/team/tej-punde.jpg",
+    bio: "I'm Tej Punde, President of the Urban Poona Impact Club. I'm an athlete at heart and badminton is my passion, along with being a student at BMCC. The purpose of giving back and helping the community is what led me to join and help build this club.",
+  },
+  {
     name: "Tanmay Kotasthane",
     role: "Vice President",
     image: "/images/team/tanmay-kotasthane.jpg",
